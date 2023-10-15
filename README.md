@@ -19,8 +19,21 @@ I made this app primarily for my own use, and so I haven't hosted it online. Tho
 
 # Usage Instructions 
 *Note: You need to have installed node.js and npm beforehand
-## Installing dependencies
+## Installing dependencies & Starting the Server
+Go to the server repository in the terminal, and run the following code:
+```npm i express cors dotenv axios```
 
+```npm i -D nodemon```
+
+```npm run start-dev```
+
+This ensures you have installed all required dependencies and you have now started the server - you want to keep this server running.
+## Installing more dependencies & opening the client
+Then, go to the client repository in the terminal, and run the following code:
+
+```npm i axios```
+
+```npm start```
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
