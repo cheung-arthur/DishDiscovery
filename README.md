@@ -1,4 +1,4 @@
-# Dish Discovery!
+# 🥘Dish Discovery🥘
 Since I came into college, I've gotten into cooking as a hobby a lot! A common pain point for me though, is when I'm not sure what to cook for a meal with the ingredients I have.
 
 So, I decided to use my knowledge of ReactJS and API fetching using Axios to create an app that outputs possible recipes for dishes given the input of a specific ingredient!
