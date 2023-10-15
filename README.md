@@ -1,3 +1,26 @@
+# Dish Discovery!
+Since I came into college, I've gotten into cooking as a hobby a lot! A common pain point for me though, is when I'm not sure what to cook for a meal with the ingredients I have.
+
+So, I decided to use my knowledge of ReactJS and API fetching using Axios to create an app that outputs possible recipes for dishes given the input of a specific ingredient!
+
+I used the Edamam API for this project, which houses an extensive database of more than 2.3 million food items. You can perform searches for any dish you desire, and the API will provide a diverse selection of recipes for your chosen dish.
+
+
+Here's a video / GIF that demos all of the app's implemented features:
+
+<img src='https://i.imgur.com/sXGeItM.gif' title='Video Demo' width='' alt='Video Demo' />
+
+GIF created with **Kap**
+
+
+
+I made this app primarily for my own use, and so I haven't hosted it online. Though, feel free to use this for yourself too!
+
+
+# Usage Instructions 
+*Note: You need to have installed node.js and npm beforehand
+## Installing dependencies
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
