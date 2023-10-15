@@ -8,7 +8,7 @@ I used the Edamam API for this project, which houses an extensive database of mo
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://i.imgur.com/sXGeItM.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://github.com/cheung-arthur/DishDiscovery/blob/master/demo.gif' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with **Kap**
 
